@@ -1,0 +1,36 @@
+*{
+    padding:0%;
+    margin:0%;
+    box-sizing: border-box;
+}
+
+/*.container{
+    width:50%;
+    margin:auto;
+}*/
+.col{
+    width: 100%;
+    padding:20px;
+}
+.card{
+    width:100%;
+}
+.image{
+    width:100%;
+}
+.image img{
+    width:100%;
+}
+h1,p{
+    text-align: center;
+    padding-top:20px;
+}
+button{
+    background-color: antiquewhite;
+    padding: 10px 20px;
+    /*width:30%;*/
+}
+/*.button{
+    padding-left:250px;
+    padding-top: 20px;
+}*/
